@@ -1,0 +1,6 @@
+name: Specbee Test
+type: module
+description: Provide functionality to users site location and the current time for the location.
+package: Custom
+core: 8.x
+version: VERSION

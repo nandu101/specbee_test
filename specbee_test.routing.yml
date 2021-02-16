@@ -1,0 +1,7 @@
+specbee_test.configuration_form:
+  path: /admin/config/development/specbee-site-location
+  defaults:
+    _title: 'Specbee Site Location Form'
+    _form: \Drupal\specbee_test\Form\SiteFormConfiguration
+  requirements:
+    _permission: 'administer site configuration'

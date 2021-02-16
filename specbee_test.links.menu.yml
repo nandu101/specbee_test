@@ -1,0 +1,5 @@
+specbee_test.configuration_form:  
+  title: 'Specbee Test configuration'  
+  route_name: specbee_test.configuration_form  
+  description: 'Specbee site location Admin'  
+  parent: system.admin_config_development  
