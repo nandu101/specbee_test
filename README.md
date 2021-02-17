@@ -44,5 +44,5 @@ CONFIGURATION
 Add Block:- Go to structure->block layout->choose anyone region ->search Specbee Block and set visibility
  Content type Article/Basic page check box select and save block.
 
-Note:- First Go to admin->config->development->Specbee Test configuration Form and submit date for display block
+Note:- First Go to admin->config->development->Specbee Test configuration Form and at least one data submit for display block
 

@@ -57,14 +57,18 @@ class SpecbeeBlock extends BlockBase implements ContainerFactoryPluginInterface 
         return [
             '#theme' => 'specbee-block-template',
             '#specbee_data' => $res_data,
+            '#cache' => [
+                //'tags' => [$res_data['date']],
+                //'contexts' => [],
+                'max-age' => -1,
+            ]
         ];
     }
 
     /**
      * @return int
      */
-    public function getCacheMaxAge() {
-        return 0;
-    }
-
+//    public function getCacheMaxAge() {
+//        return 0;
+//    }
 }
