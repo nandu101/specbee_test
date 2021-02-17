@@ -35,7 +35,7 @@ INSTALLATION
 
  * Install as you would normally install a contributed Drupal module.
    See: https://www.drupal.org/node/895232 for further information.
-   Download module and compress/extract then rename (specbee_test-master to specbee_test).
+   Download module and compress/extract then rename (specbee_test-main to specbee_test).
 
 
 CONFIGURATION
