@@ -2,3 +2,6 @@ services:
  specbee_test.current_location:
    class: Drupal\specbee_test\SiteLocationService
    arguments: ['@config.factory']
+
+
+test Demo
